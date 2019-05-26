@@ -5,11 +5,11 @@ Po uruchomieniu zostanie wypisana lista województw (w programie Polska jest tra
 Następnie będzie można wpisywać komendy:
 
 1) average_number_taking  - oblicza średnią osób, które przystąpiły do egzaminu maturalnego do danego roku włącznie (zad 1)
-   parametry: nazwa województwa, rok, płeć (opcjonalnie)
+parametry: nazwa województwa, rok, płeć (opcjonalnie)
 2) calculate_pass_rate  - oblicza procentową zdawalność dla danego województwa na przestrzeni lat (zad 2)
-   parametry: nazwa województwa, płeć (opcjonalnie)
+parametry: nazwa województwa, płeć (opcjonalnie)
 3) best_pass_rate  - podaje województwo o najlepszej zdawalności w danym roku (zad 3)
-   parametry: rok, płeć (opcjonalnie)
+parametry: rok, płeć (opcjonalnie)
 4) check_regression  - znajduje województwa, które zanotowały spadek zdawalności i podaje, w których latach to nastąpiło (zad 4)
    parametry: płeć (opcjonalnie)
 5) compare_pass_rate  - porównuje dwa wojwództwa pod względem zdawalności na przestrzeni lat (wypisuje województwo o większej zdawalności)    (zad 5)
